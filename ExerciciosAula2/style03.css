@@ -1,0 +1,31 @@
+body{
+    background-color: #b6b6b6;
+}
+
+#DivA{
+    background-color: #ffffff;
+    height: 500px;
+    width: 50vw;
+    border: #000000 10px dotted;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#FilhotePrimeiro{
+    background-color: #f7f72f;
+    height: 50px;
+    width: 30%;
+}
+
+#FilhoteSegundo{
+    background-color: rgb(206, 137, 8);
+    height: 100px;
+    width: 30%;
+}
+
+#FilhoteTerceiro{
+    background-color: rgb(10, 202, 10);
+    padding: 50px;
+    margin: 50px 0 0 50px;
+}

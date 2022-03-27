@@ -1,0 +1,20 @@
+#DivA{
+    background-color: rgb(145, 36, 167);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#PrimeiroFilho{
+    background-color: #eb9bc0;
+    height: 100%;
+    width: 250px;
+    border: solid red 20px;                      
+}
+
+#SegundoFilho{
+    background-color: #31c79a;
+    height: 88%;
+    width: 30%;
+}
